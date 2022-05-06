@@ -3,8 +3,8 @@
 ### Used Technology
  - [CNN🤖](#CNN-)
  - [OpenCV🚀](#OpenCV-)
- - [Tensorflow👨🏽‍💻](#code-mode-)
- - [Web-develpment💫](#Tensorflow-)
+ - [Tensorflow👨🏽‍💻](#Tensorflow-)
+ - [Web-development💫](#Web-development-)
  - [Nodejs😃](#Nodejs-)
 <a href="https://fraidoonomarzai.github.io/MathAi">
    MathAi Live
