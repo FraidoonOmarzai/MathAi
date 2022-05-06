@@ -1,7 +1,7 @@
 <h1 align="center"> MathAi </h1>
 
 ### Used Technology
- - [CNN🤖]
+ - [CNN🤖](#CNN-)
  - [OpenCV🚀](#OpenCV-)
  - [Tensorflow👨🏽‍💻](#code-mode-)
  - [Web-develpment💫](#Tensorflow-)
